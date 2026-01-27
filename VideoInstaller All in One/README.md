@@ -4,6 +4,11 @@
 
 Esta herramienta definitiva para usuarios de PlayStation 3 te permite preparar una memoria USB en segundos. La aplicación se encarga de **formatear tu pendrive a FAT32** (el formato necesario para PS3) y **descargar automáticamente** las aplicaciones homebrew imprescindibles, dejándolas listas para instalar en tu consola.
 
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/8L_T5Jz5TfM/0.jpg)](https://youtu.be/8L_T5Jz5TfM?si=bbSdE21Gdw2xpM5p)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/8L_T5Jz5TfM?si=bbSdE21Gdw2xpM5p)**
+
+---
+
 
 ## 🚀 Características principales
 
