@@ -6,7 +6,7 @@ Aquí encontrarás todas las utilidades que enseño en mi canal de YouTube para 
 
 ## 📺 Visita el Canal
 ¿Tienes dudas de cómo usar estas herramientas? ¡Mira los tutoriales!
-👉 **[Youtube: Videogames SCZ](https://www.youtube.com/@Videogamesscz)**
+👉 **[VIDEOGAMES SCZ](https://www.youtube.com/@Videogamesscz)**
 
 ---
 
