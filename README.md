@@ -1,4 +1,4 @@
-# PlayStation-3
+# PlayStation 3
 
 Bienvenido al repositorio oficial de herramientas para **PlayStation 3** desarrolladas y recopiladas por **VIDEOGAMES SCZ**.
 
