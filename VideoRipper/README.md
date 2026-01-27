@@ -30,7 +30,7 @@ VideoRipper es la herramienta definitiva para "adelgazar" tus copias de segurida
 
 ---
 
-## 📊 Tabla de Ahorro (Ejemplos)
+## 📊 Tabla de ahorro (Ejemplos)
 
 | Juego | Peso Original | Peso Ripeado | Ahorro |
 | :--- | :---: | :---: | :---: |
