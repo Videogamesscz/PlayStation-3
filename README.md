@@ -31,7 +31,7 @@ Esta herramienta definitiva para usuarios de PlayStation 3 te permite preparar u
     * Ve a **Administrar Archivos PKG** > **Instalar Archivos PKG** > **Directorio Estándar**.
     * ¡Ahí tendrás todas tus apps listas para instalar!
 
-## ⚠️ Aviso Legal y Seguridad
+## ⚠️ Aviso legal y seguridad
 
 Esta herramienta realiza un formateo completo de la unidad seleccionada. **VIDEOGAMES SCZ no se hace responsable** de la pérdida de datos si seleccionas el disco duro equivocado o no haces una copia de seguridad de tu USB antes de usarla.
 
