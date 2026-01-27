@@ -4,7 +4,7 @@ Bienvenido al repositorio oficial de herramientas para **PlayStation 3** desarro
 
 Aquí encontrarás todas las utilidades que enseño en mi canal de YouTube para personalizar, modificar y sacar el máximo partido a tu consola. Todo unificado en un solo lugar para facilitar las descargas.
 
-## 📺 Visita el Canal
+## 📺 Visita el canal
 ¿Tienes dudas de cómo usar estas herramientas? ¡Mira los tutoriales!
 👉 **[VIDEOGAMES SCZ](https://www.youtube.com/@Videogamesscz)**
 
