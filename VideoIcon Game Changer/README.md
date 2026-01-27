@@ -7,6 +7,10 @@ By VIDEOGAMES SCZ
 
 ¡Personaliza la apariencia de tu biblioteca de juegos de PS3 en segundos! Esta herramienta de PC automatiza todo el proceso de cambiar los iconos (ICON0.PNG) y fondos (PIC1.PNG) de tus juegos instalados, sin necesidad de editar imágenes manualmente ni usar gestores de archivos complejos.
 
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/mE4qNdHUkyw/0.jpg)](https://youtu.be/jSwBFqfFmfU?si=ixWUJwqRmyj7cTso)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/jSwBFqfFmfU?si=ixWUJwqRmyj7cTso)**
+
+---
 
 ## <b>🚀 Características principales</b>
 
