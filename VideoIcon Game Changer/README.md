@@ -1,7 +1,5 @@
 # VideoIcon Game Changer
 
-![Vista previa de la App](imagen.jpg)
-
 <b>🎨 PS3 Game Customizer (FTP Edition)</b>
 By VIDEOGAMES SCZ
 
