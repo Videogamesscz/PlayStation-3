@@ -1,7 +1,7 @@
-# HFW USB Installer (Auto-preparador 4.92)
+# HFW USB Installer (Auto-preparador 4.93)
 
 **¡Olvídate de los errores al actualizar tu PS3!**
-Esta herramienta automatiza por completo la preparación de tu memoria USB para instalar el **Hybrid Firmware (HFW) 4.92**.
+Esta herramienta automatiza por completo la preparación de tu memoria USB para instalar el **Hybrid Firmware (HFW) 4.93**.
 
 ¿Tu PS3 no detecta el USB? ¿No sabes si está en FAT32 o MBR? ¿Te lías con las carpetas? Esta aplicación lo hace todo por ti con solo 2 clics.
 
@@ -13,7 +13,7 @@ Esta herramienta automatiza por completo la preparación de tu memoria USB para 
 ## 🔥 Características principales
 
 * **🛡️ Formateo inteligente:** Convierte tu USB automáticamente al formato **FAT32** y tabla de particiones **MBR** (necesario para que la PS3 lo lea).
-* **⬇️ Descarga automática:** Baja la última versión del **HFW 4.92** directamente desde la aplicación.
+* **⬇️ Descarga automática:** Baja la última versión del **HFW 4.93** directamente desde la aplicación.
 * **📂 Estructura perfecta:** Crea automáticamente la carpeta `PS3` > `UPDATE` y coloca el archivo renombrado correctamente.
 * **✅ Cero complicaciones:** Interfaz visual sencilla con botones de colores.
 
