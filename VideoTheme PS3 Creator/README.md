@@ -8,15 +8,15 @@
 ## ✨ Características Principales
 
 * **🖼️ Vista Previa Dinámica:** Visualiza en tiempo real cómo quedará tu tema en el menú XMB de la PS3, incluyendo el reloj, las notificaciones y la disposición de los iconos.
-* **🎨 Fondos de Pantalla Personalizados:** Carga cualquier imagen y la aplicación la escalará automáticamente a las resoluciones necesarias para HD (1080p) y SD (480p).
-* **🪄 Ajuste Automático de Iconos (Auto-Trim):** Importa imágenes PNG o JPG para tus iconos personalizados (por ejemplo, logos de redes sociales). La herramienta detecta y elimina automáticamente el espacio transparente sobrante, ajustando el logo perfectamente al tamaño estricto de la consola (128x128).
-* **🖌️ Tinte de Iconos Global:** Cambia el color base de todos los iconos del sistema XMB con un solo clic para que combinen con tu fondo.
-* **📦 Exportación Dual:** Genera el archivo estándar `.p3t` para instalar desde el menú de temas, o compila directamente un archivo `.pkg` instalable para mayor comodidad.
+* **🎨 Fondos de pantalla personalizados:** Carga cualquier imagen y la aplicación la escalará automáticamente a las resoluciones necesarias para HD (1080p) y SD (480p).
+* **🪄 Ajuste automático de iconos (Auto-Trim):** Importa imágenes PNG o JPG para tus iconos personalizados (por ejemplo, logos de redes sociales). La herramienta detecta y elimina automáticamente el espacio transparente sobrante, ajustando el logo perfectamente al tamaño estricto de la consola (128x128).
+* **🖌️ Tinte de iconos Global:** Cambia el color base de todos los iconos del sistema XMB con un solo clic para que combinen con tu fondo.
+* **📦 Exportación dual:** Genera el archivo estándar `.p3t` para instalar desde el menú de temas, o compila directamente un archivo `.pkg` instalable para mayor comodidad.
 * **🚀 100% Portable:** Distribuido en un único archivo ejecutable (`.exe`) que incluye todas las dependencias y compiladores oficiales de Sony. ¡No requiere instalación!
 
 ---
 
-## 🛠️ Cómo Utilizar la Herramienta
+## 🛠️ Cómo utilizar la herramienta
 
 1.  **Descarga** `ps3_theme_creator.exe`.
 2.  **Pestaña Wallpaper:** Define el nombre de tu tema, selecciona tu fondo de pantalla y elige el color para los iconos del sistema.
@@ -26,9 +26,9 @@
 
 ---
 
-## 📥 Cómo Instalar el Tema en tu PS3
+## 📥 Cómo instalar el tema en tu PS3
 
-### Opción 1: Archivo .P3T (Formato Estándar)
+### Opción 1: Archivo .P3T (Formato estándar)
 
 1.  Copia el archivo `.p3t` generado en un pendrive USB formateado en FAT32.
 2.  Colócalo en la ruta `PS3/THEME/` (crea las carpetas si no existen).
@@ -46,11 +46,11 @@
 
 ---
 
-## ⚠️ Requisitos y Notas
+## ⚠️ Requisitos y notas
 
 * **Sistema Operativo:** Windows 7/8/10/11 (32 o 64 bits).
 * **Formato USB:** El pendrive debe estar formateado en **FAT32** para que la PS3 lo reconozca.
-* **Formato de Imágenes:** Se recomienda usar imágenes `.png` transparentes para los iconos para obtener mejores resultados.
+* **Formato de imágenes:** Se recomienda usar imágenes `.png` transparentes para los iconos para obtener mejores resultados.
 
 ---
 
