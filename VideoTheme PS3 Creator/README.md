@@ -1,6 +1,9 @@
+# 🎮 PS3 Theme Creator
+
 **PS3 Theme Creator** es una herramienta de escritorio potente y fácil de usar, diseñada para permitirte crear temas personalizados para tu PlayStation 3 en cuestión de segundos. Olvídate de configuraciones complejas; con esta aplicación, puedes diseñar, previsualizar y compilar tus propios temas visuales (.p3t y .pkg) directamente desde tu PC.
 
----
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/jSwBFqfFmfU/0.jpg)](https://youtu.be/jSwBFqfFmfU?si=ixWUJwqRmyj7cTso)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/jSwBFqfFmfU?si=ixWUJwqRmyj7cTso)**
 
 ## ✨ Características Principales
 
@@ -10,13 +13,6 @@
 * **🖌️ Tinte de Iconos Global:** Cambia el color base de todos los iconos del sistema XMB con un solo clic para que combinen con tu fondo.
 * **📦 Exportación Dual:** Genera el archivo estándar `.p3t` para instalar desde el menú de temas, o compila directamente un archivo `.pkg` instalable para mayor comodidad.
 * **🚀 100% Portable:** Distribuido en un único archivo ejecutable (`.exe`) que incluye todas las dependencias y compiladores oficiales de Sony. ¡No requiere instalación!
-
----
-
-## 📸 Capturas de Pantalla
-
-*(Próximamente)*
-> *¡Aquí puedes añadir imágenes de la interfaz de tu aplicación en acción!*
 
 ---
 
