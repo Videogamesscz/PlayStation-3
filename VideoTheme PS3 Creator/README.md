@@ -18,13 +18,11 @@
 
 ## 🛠️ Cómo Utilizar la Herramienta
 
-1.  **Descarga** el archivo `PS3_Theme_Creator.zip` de este repositorio.
-2.  **Extrae** el contenido en una carpeta de tu PC.
-3.  **Ejecuta** `ps3_theme_creator.exe`.
-4.  **Pestaña Apariencia:** Define el nombre de tu tema, selecciona tu fondo de pantalla y elige el color para los iconos del sistema.
-5.  **Pestaña Íconos:** Sube tus propias imágenes `.png` para las categorías principales (Juegos, Redes, Video, etc.). ¡La aplicación hará el recorte y ajuste automáticamente!
-6.  **Pestaña Fuente:** Selecciona el estilo de letra oficial que prefieras.
-7.  **Exportar:** Haz clic en el botón `.P3T` o `.PKG`. El archivo final se generará en la misma carpeta.
+1.  **Descarga** `ps3_theme_creator.exe`.
+2.  **Pestaña Wallpaper:** Define el nombre de tu tema, selecciona tu fondo de pantalla y elige el color para los iconos del sistema.
+3.  **Pestaña Iconos:** Sube tus propias imágenes `.png` para las categorías principales (Juegos, Redes, Video, etc.). ¡La aplicación hará el recorte y ajuste automáticamente!
+4.  **Pestaña Fuente:** Selecciona el estilo de letra oficial que prefieras.
+5.  **Exportar:** Haz clic en el botón `.P3T` o `.PKG`. El archivo final se generará en la misma carpeta.
 
 ---
 
