@@ -1,4 +1,4 @@
-# ¿CFW o HEN? (Pruena de compatibilidad)
+# ¿CFW o HEN? (Prueba de compatibilidad)
 
 **¿Aún tienes dudas si tu PS3 es compatible con CFW?**
 Esta sencilla herramienta te dirá en segundos si tu PS3 es compatible o no con CFW mediante el **serial CECH de tu PS3**. 
