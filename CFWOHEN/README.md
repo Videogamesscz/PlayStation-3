@@ -10,31 +10,20 @@ Esta sencilla herramienta te dirá en segundos si tu PS3 es compatible o no con 
 
 ## 🔥 Características principales
 
-* **🛡️ Formateo inteligente:** Convierte tu USB automáticamente al formato **FAT32** y tabla de particiones **MBR** (necesario para que la PS3 lo lea).
-* **⬇️ Descarga automática:** Baja la última versión del **HFW 4.93** directamente desde la aplicación.
-* **📂 Estructura perfecta:** Crea automáticamente la carpeta `PS3` > `UPDATE` y coloca el archivo renombrado correctamente.
-* **✅ Cero complicaciones:** Interfaz visual sencilla con botones de colores.
+**Verificación instantánea:** Descubre si tu consola es compatible con CFW con solo unos clics.
+**Identificación de Memoria:** Muestra el tipo exacto de memoria Flash (NAND, NOR o eMMC) según tu modelo.
+**Casos especiales (Date Code):** Gestión automática para los modelos Slim CECH-25xx, indicando cuándo es compatible, cuándo no, y cuándo necesitas usar *MinVerChk* (como en el famoso Date Code 1A).
+**Visual y sin instalación:** Interfaz gráfica intuitiva con imágenes de cada modelo de consola para facilitar la identificación. Todo empaquetado en un único archivo `.exe` (Portable).
 
 ---
 
 ## 📖 Instrucciones de uso
 
-1.  **Conecta un USB** a tu ordenador (asegúrate de saber qué letra tiene, ej: `E:`, `F:`).
-2.  Abre la aplicación **`HFW USB Installer.exe`**.
-    * *Nota: Si Windows te muestra una advertencia azul ("Protegió su PC"), pulsa en "Más información" -> "Ejecutar de todas formas". Es normal porque la app es casera y no tiene firma digital de Microsoft.*
-3.  **Selecciona la letra** de tu USB en el menú desplegable.
-4.  🔴 **Paso 1 (Botón Rojo):** Dale a "Formatear".
-    * *⚠️ ¡OJO! Esto borrará todo lo que haya en el USB.*
-5.  🟢 **Paso 2 (Botón Verde):** Dale a "Descargar/Copiar".
-    * La app descargará el firmware y lo preparará. Espera a que termine.
-6.  ¡Listo! Saca el USB, conéctalo a tu PS3 y ve a **Actualización del Sistema** > **Actualizar mediante soporte de almacenamiento**.
-
----
-
-## 📋 Requisitos
-* Un ordenador con Windows.
-* Una memoria USB (se recomienda de 1GB o más).
-* Conexión a Internet (para descargar el update).
+1.  Abre el archivo ejecutable (`CFW O HEN.exe`).
+2.  En el primer menú desplegable, **Selecciona el modelo** de tu consola (Fat, Slim o Super Slim).
+3.  En el segundo menú, **Selecciona el CECH** (lo encontrarás en la pegatina trasera de tu consola).
+4.  Si seleccionas el modelo *Slim CECH-25xx*, se habilitará el tercer menú para que introduzcas el **Date Code** (ubicado en la pegatina inferior de la consola). La aplicación te mostrará una imagen de referencia para ayudarte a encontrarlo.
+5.  ¡Listo! Lee el resultado en pantalla. El programa te indicará claramente con un símbolo (✔, ✘, o ?) y un texto explicativo qué puedes instalar en tu máquina.
 
 ---
 
