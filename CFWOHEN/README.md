@@ -1,12 +1,10 @@
-# HFW USB Installer (Auto-preparador 4.93)
+# ¿CFW o HEN? (Pruena de compatibilidad)
 
-**¡Olvídate de los errores al actualizar tu PS3!**
-Esta herramienta automatiza por completo la preparación de tu memoria USB para instalar el **Hybrid Firmware (HFW) 4.93**.
+**¿Aún tienes dudas si tu PS3 es compatible con CFW?**
+Esta sencilla herramienta te dirá en segundos si tu PS3 es compatible o no con CFW mediante el **serial CECH de tu PS3**. 
 
-¿Tu PS3 no detecta el USB? ¿No sabes si está en FAT32 o MBR? ¿Te lías con las carpetas? Esta aplicación lo hace todo por ti con solo 2 clics.
-
-[![Ver Tutorial en YouTube](https://img.youtube.com/vi/mE4qNdHUkyw/0.jpg)](https://www.youtube.com/watch?v=mE4qNdHUkyw)
-> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/mE4qNdHUkyw?si=YrKLQi-UVTtP5ASi)**
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/GltIq92T84o/0.jpg)](https://www.youtube.com/watch?v=GltIq92T84o)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/GltIq92T84o?si=GltIq92T84o)**
 
 ---
 
