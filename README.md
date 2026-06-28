@@ -20,6 +20,7 @@ Aquí encontrarás todas las utilidades que enseño en mi canal de YouTube para 
 | **VideoHEN Icon Changer** | 🎨 Personaliza el icono de "Enable HEN" en el menú de tu PS3 con nuevas imágenes. | [Ir a la carpeta](./VideoHEN%20Icon%20Changer) |
 | **VideoIcon Game Changer** | 🖼️ Cambia las carátulas e iconos de tus juegos en el menú XMB fácilmente. | [Ir a la carpeta](./VideoIcon%20Game%20Changer) |
 | **PS3 Theme Creator** | 🎮 Crea y compila temas personalizados (.p3t y .pkg) para el menú XMB de forma rápida y sencilla. | [Ir a la carpeta](./VideoTheme%20PS3%20Creator) |
+| **Videopedia** | 📚 Guía de tutoriales recopilados y clasificados para una mejor interuacción. | [Ir a la carpeta](./Videopedia) |
 
 ---
 
