@@ -1,4 +1,4 @@
-# Videopedia PS3)
+# Videopedia PS3
 
 **¡Encuentra tu tutorial de PS3 fácilmente!**
 Esta aplicación te permitirá encontrar y filtar el tutorial que necesitas para tu PS3 y de mi canal de Youtube **VIDEOGAMES SCZ**.
