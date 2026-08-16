@@ -1,4 +1,4 @@
-# PS3 Store Injector
+# PS3 Stores Injector
 
 **¡Añade las Stores a tu PS3 sin complicaciones!**
 Esta herramienta modifica automáticamente el archivo **`category_game.xml`** de tu PS3 para añadir las **Stores** (tiendas) al menú de la consola, sin que tengas que editar nada a mano.
