@@ -21,6 +21,8 @@ Aquí encontrarás todas las utilidades que enseño en mi canal de YouTube para 
 | **VideoIcon Game Changer** | 🖼️ Cambia las carátulas e iconos de tus juegos en el menú XMB fácilmente. | [Ir a la carpeta](./VideoIcon%20Game%20Changer) |
 | **PS3 Theme Creator** | 🎮 Crea y compila temas personalizados (.p3t y .pkg) para el menú XMB de forma rápida y sencilla. | [Ir a la carpeta](./VideoTheme%20PS3%20Creator) |
 | **Videopedia** | 📚 Guía de tutoriales recopilados y clasificados para una mejor interuacción. | [Ir a la carpeta](./Videopedia) |
+| **PS3 Code Errors** | ⚠️error⚠️ Aplicación para poder saber que error tiene tu PS3 mediante el código en pantalla. | [Ir a la carpeta](./Code%20Error) |
+| **PS3 Stores Injector** | 🏪 Haz tu propio fix para visualizar las stores en tu consola con esta aplicación. | [Ir a la carpeta](./PS3%20Stores%20Injector) |
 
 ---
 
