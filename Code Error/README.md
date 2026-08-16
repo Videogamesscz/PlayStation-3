@@ -5,8 +5,8 @@ Esta herramienta te permite buscar cualquier **código de error de PS3** y saber
 
 ¿Tu consola te muestra un código raro tipo `8002F14E` y no tienes ni idea de qué es? Con esta app lo sabrás en segundos, sin tener que buscar en foros.
 
-[![Ver Tutorial en YouTube](https://img.youtube.com/vi/mE4qNdHUkyw/0.jpg)](https://www.youtube.com/watch?v=mE4qNdHUkyw)
-> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/mE4qNdHUkyw?si=YrKLQi-UVTtP5ASi)**
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/pEKYYk7SAiY/0.jpg)](https://www.youtube.com/watch?v=pEKYYk7SAiY)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/pEKYYk7SAiY?si=abxTOSVDnfnAVvPd)**
 
 ---
 
