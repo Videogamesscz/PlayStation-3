@@ -5,8 +5,8 @@ Esta herramienta modifica automáticamente el archivo **`category_game.xml`** de
 
 ¿No sabes cómo tocar el `category_game.xml`? ¿Te da miedo dejar la consola en un estado raro? Esta aplicación lo hace todo por ti con solo un par de clics.
 
-[![Ver Tutorial en YouTube](https://img.youtube.com/vi/mE4qNdHUkyw/0.jpg)](https://www.youtube.com/watch?v=mE4qNdHUkyw)
-> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/mE4qNdHUkyw?si=YrKLQi-UVTtP5ASi)**
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/jW00fcyGKwo/0.jpg)](https://www.youtube.com/watch?v=jW00fcyGKwo)
+> 🎥 **[Haz clic aquí para ver el tutorial de uso](https://youtu.be/jW00fcyGKwo?si=PehTZWGcxwqWBTjy)**
 
 ---
 
